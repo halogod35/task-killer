@@ -1,6 +1,7 @@
-::Simple monitor and kill process (exact name)
+::Simple monitor and kill process
 @echo off&prompt :&mode con cols=50 lines=10
 
+:: Set following variable for the process to kill
 set processname=wlanext.exe
 
 :loop

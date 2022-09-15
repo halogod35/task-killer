@@ -1,5 +1,5 @@
 # task-killer
-This bat script allows you to kill processes or self-restarting malware by monitoring and destroying the specified task every second.
+This bat script allows you to kill any self-restarting processor (such as malware) by monitoring and destroying the specified task every second.
 
 ## Usage
 Download/clone to wherever
